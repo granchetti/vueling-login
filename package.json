@@ -1,0 +1,18 @@
+{
+  "name": "vueling-login",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@types/chai": "^4.3.0",
+    "chai": "^4.3.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
