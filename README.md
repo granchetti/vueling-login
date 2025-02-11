@@ -8,9 +8,14 @@ Necesitas tener instalado Node.js y npm. Puedes descargarlos e instalarlos desde
 
 ## Instalación
 
-- Clonar el proyecto y navegar a la carpeta del proyecto
-- Instalar la dependecias con este comando:
+- Clonar el proyecto:
+```bash
+git clone https://github.com/granchetti/vueling-login.git 
+```
 
+- Navegar a la carpeta del proyecto
+
+- Instalar la dependecias con este comando:
 ```bash
 npm install
 ```
