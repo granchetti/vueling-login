@@ -8,8 +8,8 @@ Necesitas tener instalado Node.js y npm. Puedes descargarlos e instalarlos desde
 
 ## Instalación
 
-1. **Clonar el proyecto y navegar a la carpeta del proyecto**
-3. **Instalar la dependecias con este comando:**
+- Clonar el proyecto y navegar a la carpeta del proyecto
+- Instalar la dependecias con este comando:
 
 ```bash
 npm install
